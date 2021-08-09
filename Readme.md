@@ -1,7 +1,9 @@
-##Revitalise
+## Revitalise
 
 This project is built entirely on expo.
 With a React-Native framework and the use of typescript language for front end development, we created a mobile application that uses Firebase for the backend to store user's data.
+
+This product is still in production phase, hence there would be a need to rely on expo to run the project. 
 
 
 ## Installation
